@@ -1,0 +1,11 @@
+For help on how to run the scripts, simply run them without any 
+arguments (make sure they are executable (chmod -x) OR write ruby in front):
+
+pubmedid2pdf.rb
+
+OR
+
+searchTerm2pdf.rb
+
+
+See http://bio-geeks.com for a blog about this program
